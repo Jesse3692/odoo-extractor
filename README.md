@@ -21,13 +21,13 @@ Odoo Module Extractor 是一个用于提取和分析 Odoo 模块代码的工具�
 ### 使用 pip 安装
 
 ```bash
-pip install odoo-extractor
+pip install git+https://github.com/Jesse3692/odoo-extractor.git
 ```
 
 ### 从源码安装
 
 ```bash
-git clone https://github.com/yourusername/odoo-extractor.git
+git clone https://github.com/Jesse3692/odoo-extractor.git
 cd odoo-extractor
 pip install -e .
 ```

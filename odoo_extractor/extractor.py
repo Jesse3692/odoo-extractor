@@ -43,6 +43,8 @@ class OdooModuleExtractor:
         "*.pyo",
         ".DS_Store",
         "node_modules",
+        "venv",
+        ".venv",
     }
 
     # 重要文件优先级
